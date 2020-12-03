@@ -5,7 +5,6 @@ public class ModelRutaInicial {
     private String autor;
     private String proyecto;
 
-
     public String getAutor() {
         return autor;
     }

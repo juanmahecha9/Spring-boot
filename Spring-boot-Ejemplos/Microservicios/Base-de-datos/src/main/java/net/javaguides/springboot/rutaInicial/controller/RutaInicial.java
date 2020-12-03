@@ -34,8 +34,6 @@ public class RutaInicial {
         String json = " Las peticiones HTTP se realizan con el mismo URL, solo varia el verbo HTTP y dependiendo de el, se agrega una variable que sera el ID \n" +
                 " CRUD de los productos: http://localhost:" + port + "/products \n " +
                 " CRUD de los clientes: http://localhost:" + port + "/clients \n";
-
-
         return json;
     }
 

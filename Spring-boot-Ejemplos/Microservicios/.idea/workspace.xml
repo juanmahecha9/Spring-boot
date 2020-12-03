@@ -2,35 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="049aad29-3805-444f-b0f6-51f7f1b6a1ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/.mvn/wrapper/maven-wrapper.properties.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/compile.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/exe.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/SpringbootCrudHibernateExampleApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/clientes/controller/ClientesController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/clientes/model/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/clientes/repository/ClientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/clientes/service/ClientService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/clientes/service/ClientServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/exception/Mensaje.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/exception/ResourceNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/producto/controller/ProductoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/producto/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/producto/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/producto/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/producto/service/ProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/rutaInicial/ModelRutaInicial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/rutaInicial/controller/RutaInicial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autenticacion/springboot-crud-hibernate-example/src/test/java/net/javaguides/springboot/SpringbootCrudHibernateExampleApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base-de-datos/clean.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad-JWT/clean.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Base-de-datos/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/clientes/controller/ClientesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/clientes/model/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/clientes/repository/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/clientes/service/ClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/clientes/service/ClientServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/producto/controller/ProductoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/producto/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/producto/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/producto/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/producto/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/rutaInicial/controller/RutaInicial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base-de-datos/src/main/java/net/javaguides/springboot/rutaInicial/controller/RutaInicial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base-de-datos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Base-de-datos/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +42,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seguridad-JWT" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seguridad-JWT" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

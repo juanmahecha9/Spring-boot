@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class RutaInicial {
 
+    //Toma la variable de entorno y la vuelve una variable en el código.
     @Value("${server.port}")
     private int port;
 
@@ -18,23 +19,13 @@ public class RutaInicial {
     public String Start() {
 
         modelRutaInicial.setAutor("Juan David Mahecha");
-        modelRutaInicial.setProyecto("Proyecto Desarrollado con MySQL, H2, JWT, envio de coreos");
+        modelRutaInicial.setProyecto("Proyecto enfocado a los microservicos");
 
         String json = "{ \\n" +
                 "'Autor': " + modelRutaInicial.getAutor() +
                 "\\n 'Proyecto': " + modelRutaInicial.getProyecto() +
-                "\\n 'Rutas': http://localhost:" + port + "/rutas" +
-                "}";
+                "  \\n" +
+                "_***-***-***-***_}";
         return json;
     }
-
-    @GetMapping(value = "/rutas")
-    public String Startx() {
-
-        String json = " Las peticiones HTTP se realizan con el mismo URL, solo varia el verbo HTTP y dependiendo de el, se agrega una variable que sera el ID \n" +
-                " CRUD de los productos: http://localhost:" + port + "/products \n " +
-                " CRUD de los clientes: http://localhost:" + port + "/clients \n";
-        return json;
-    }
-
 }

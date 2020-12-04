@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base_de_datos_Cliente/Base_de_datos_cliente.iml" filepath="$PROJECT_DIR$/Base_de_datos_Cliente/Base_de_datos_cliente.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservicios.iml" filepath="$PROJECT_DIR$/.idea/Microservicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/auth-microservicios/auth-microservicios.iml" filepath="$PROJECT_DIR$/auth-microservicios/auth-microservicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/database-microservicios/database-microservicios.iml" filepath="$PROJECT_DIR$/database-microservicios/database-microservicios.iml" />
     </modules>
   </component>
 </project>

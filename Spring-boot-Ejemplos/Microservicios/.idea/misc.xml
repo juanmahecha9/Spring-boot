@@ -3,8 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/auth-microservicios/pom.xml" />
-        <option value="$PROJECT_DIR$/database-microservicios/pom.xml" />
+        <option value="$PROJECT_DIR$/Base_de_datos/pom.xml" />
       </list>
     </option>
   </component>

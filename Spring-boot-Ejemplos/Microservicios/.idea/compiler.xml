@@ -6,19 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="auth-microservicios" />
-        <module name="database-microservicios" />
+        <module name="Base_de_datos_cliente" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="auth-microservicios" target="11" />
-      <module name="database-microservicios" target="11" />
+      <module name="Base_de_datos_cliente" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="auth-microservicios" options="-parameters" />
-      <module name="database-microservicios" options="-parameters" />
+      <module name="Base_de_datos_cliente" options="-parameters" />
     </option>
   </component>
 </project>

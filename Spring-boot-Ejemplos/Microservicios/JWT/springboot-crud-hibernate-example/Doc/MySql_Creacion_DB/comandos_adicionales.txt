@@ -1,4 +1,0 @@
-// Crear la base de datos usando mysql
-CREATE DATABASE IF NOT EXISTS [nombre de la base de datos] CHARACTER SET utf8 COLLATE utf8_general_ci;
-
-

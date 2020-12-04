@@ -4,47 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097c2482-5eb6-40f2-8d2a-900920d203d6" name="Default Changelist" comment="" />
+    <list default="true" id="73ac1117-7b55-4bc7-bf17-0cc6af84f4d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1l9xG6LGZFZaL65eIoAQSD1x6md" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lCAb8v8rUwsMfBioPDuZumlzAT" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.juanamhecha9.Base_de_datos.Producto.Service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Base_de_datos_Admin/src/main/java/com/juanamhecha9/Base_de_datos" />
+      <recent name="$PROJECT_DIR$/Common/src/main/java/com/juanamhecha9/Base_de_datos/Cliente" />
+      <recent name="$PROJECT_DIR$/Base_de_datos_Cliente/src/main/java/com/juanamhecha9/Base_de_datos/Producto" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/com.juanmahecha9.common/cliente" />
-      <recent name="$PROJECT_DIR$/com.juanmahecha9.common/producto" />
+      <recent name="$PROJECT_DIR$/Base_de_datos" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="097c2482-5eb6-40f2-8d2a-900920d203d6" name="Default Changelist" comment="" />
-      <created>1607023009377</created>
+      <changelist id="73ac1117-7b55-4bc7-bf17-0cc6af84f4d4" name="Default Changelist" comment="" />
+      <created>1607090768409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607023009377</updated>
+      <updated>1607090768409</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="171" key="#Project_Structure" timestamp="1607091115380">
+      <screen x="0" y="22" width="2560" height="1339" />
+    </state>
+    <state x="640" y="171" key="#Project_Structure/0.22.2560.1339/-1440.207.1440.878@0.22.2560.1339" timestamp="1607091115380" />
+    <state x="1112" y="305" key="#com.intellij.ide.util.MemberChooser" timestamp="1607103630927">
+      <screen x="0" y="22" width="2560" height="1339" />
+    </state>
+    <state x="1112" y="305" key="#com.intellij.ide.util.MemberChooser/0.22.2560.1339/-1440.207.1440.878@0.22.2560.1339" timestamp="1607103630927" />
+    <state x="901" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607103392703">
+      <screen x="0" y="22" width="2560" height="1339" />
+    </state>
+    <state x="901" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.22.2560.1339/-1440.207.1440.878@0.22.2560.1339" timestamp="1607103392703" />
+    <state x="927" y="299" width="838" height="1032" key="search.everywhere.popup" timestamp="1607096802745">
+      <screen x="0" y="22" width="2560" height="1339" />
+    </state>
+    <state x="927" y="299" width="838" height="1032" key="search.everywhere.popup/0.22.2560.1339/-1440.207.1440.878@0.22.2560.1339" timestamp="1607096802745" />
   </component>
 </project>

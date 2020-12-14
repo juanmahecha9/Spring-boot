@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a52cad-3fbc-485f-809e-c5e5ff7aa7d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/java/com/juanmahecha9/multiples/aplication/properties/Controller/ControllerInit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/java/com/juanmahecha9/multiples/aplication/properties/MultiplesAplicationPropertiesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/java/com/juanmahecha9/multiples/aplication/properties/MultiplesAplicationPropertiesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/spring_databases/MySql/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/rutaInicial/controller/RutaInicial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/spring_databases/MySql/springboot-crud-hibernate-example/src/main/java/net/javaguides/springboot/rutaInicial/controller/RutaInicial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

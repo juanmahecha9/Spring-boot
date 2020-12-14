@@ -7,7 +7,7 @@ case $1 in
     test )
            mvn clean install -Ptest
         ;;
-    pro)
+    prod)
             mvn clean install -Pprod
         ;;
     *)

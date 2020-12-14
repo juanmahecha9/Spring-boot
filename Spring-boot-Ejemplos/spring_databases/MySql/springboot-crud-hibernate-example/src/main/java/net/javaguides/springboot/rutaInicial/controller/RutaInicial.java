@@ -12,6 +12,8 @@ public class RutaInicial {
     @Value("${server.port}")
     private int port;
 
+
+
     ModelRutaInicial modelRutaInicial = new ModelRutaInicial();
 
     @GetMapping(value = "/")

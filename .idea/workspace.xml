@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a52cad-3fbc-485f-809e-c5e5ff7aa7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/Microservicios/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/compile.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/resources/application-test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/Microservicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/Microservicios/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/Microservicios/Base_de_datos_Admin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/Microservicios/Base_de_datos_Admin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/java/com/juanmahecha9/multiples/aplication/properties/MultiplesAplicationPropertiesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-boot-Ejemplos/múltiples_archivosde_aplicaciones.propiedades/multiples-aplication-properties/src/main/java/com/juanmahecha9/multiples/aplication/properties/MultiplesAplicationPropertiesApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
